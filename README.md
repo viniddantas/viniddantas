@@ -37,9 +37,9 @@ Desde então, continuo apaixonado por programação e busco aprender cada vez ma
 ### Projetos desenvolvidos
 
 <div>
-   <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniddantas&repo=Alura-Geek&bg_color=030314&border_color=030314&show_icons=true&icon_color=FCA311&title_color=5FABEE&text_color=FFF" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniddantas&repo=Portfolio&bg_color=030314&border_color=030314&show_icons=true&icon_color=FCA311&title_color=5FABEE&text_color=FFF" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniddantas&repo=Criptografador&bg_color=030314&border_color=030314&show_icons=true&icon_color=FCA311&title_color=5FABEE&text_color=FFF" />
+   <img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniddantas&repo=Alura-Geek&bg_color=030314&border_color=030314&show_icons=true&icon_color=FCA311&title_color=5FABEE&text_color=FFF" />
+  <img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniddantas&repo=Portfolio&bg_color=030314&border_color=030314&show_icons=true&icon_color=FCA311&title_color=5FABEE&text_color=FFF" />
+  <img width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniddantas&repo=Criptografador&bg_color=030314&border_color=030314&show_icons=true&icon_color=FCA311&title_color=5FABEE&text_color=FFF" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292384&height=120&section=footer"/>
