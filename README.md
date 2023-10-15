@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292384&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=292384&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Me+chamo+Vinícius+Domingues+Dantas;Bem-vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=292384&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Vinícius+Domingues+Dantas;Bem-vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
 ## Quem sou eu?
 
