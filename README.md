@@ -4,10 +4,7 @@
 
 ## Quem sou eu?
 
-Sou brasileiro, tenho 19 anos e sou apaixonado por tecnologias desde minha infância quando era motivado pela curiosidade em programação. Tive meu primeiro contato com a programação ainda nessa época quando fiz um curso de algoritmo com a linguagem Portugol.
-
-Desde então, continuo apaixonado por programação e busco aprender cada vez mais através de cursos pela internet. Até o momento estudei Front End pela plataforma Alura através do programa Oracle Next Education na qual conquistei certificados em HTML5, CSS3, JavaScript e React.
-
+Sou brasileiro, tenho 19 anos e sou apaixonado por tecnologias desde minha infância quando era motivado pela curiosidade em programação. Tive meu primeiro contato com a programação ainda nessa época quando fiz um curso de 
 ### Acompanhe minha jornada
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/vini_dantas61/)
