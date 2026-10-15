@@ -4,9 +4,6 @@
 
 ## Quem sou eu?
 
-Sou brasileiro, tenho 19 anos e sou apaixonado por tecnologias desde minha infância quando era motivado pela curiosidade em programação. Tive meu primeiro contato com a programação ainda nessa época quando fiz um curso de 
-### Acompanhe minha jornada
-
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/vini_dantas61/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vini.dantas61@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/viniddantas/)
